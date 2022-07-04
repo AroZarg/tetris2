@@ -4,12 +4,13 @@ html, body {
   }
 
   body {
-    background-color: rgb(16, 2, 1);
+    background-image: url(https://scitechdaily.com/images/Colorful-Tetris-Tiles-777x524.jpg?ezimgfmt=ng:webp/ngcb1);
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
   canvas {
+    background-color: black;
     border: 1px solid white;
   }
